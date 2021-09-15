@@ -1,0 +1,17 @@
+{
+  "name": "lbtt_calculator",
+  "version": "1.0.0",
+  "description": "Calculates LBTT based on input",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'spec/*.spec.js'"
+  },
+  "author": "JordanInsights",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "mocha": "^9.1.1",
+    "supertest": "^6.1.6"
+  }
+}
